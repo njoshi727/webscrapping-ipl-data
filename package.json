@@ -1,0 +1,15 @@
+{
+  "name": "cricinfo-webscrapping",
+  "version": "1.0.0",
+  "description": "An activity to scrap data from cricinfo ipl page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2"
+  }
+}
