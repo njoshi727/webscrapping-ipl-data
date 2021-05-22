@@ -9,3 +9,13 @@ in which we will store details of the player in the form of array of object wher
 Details of an object includes
 	a. Runs, balls, sixes , fours, sr for that match
 	b. date ,venue ,result and opponent name for that match
+
+
+Directory Structure :
+![all Teams](images/team.png)
+
+Example : MI Directory :
+![mumbai indians](images/mi.png)
+
+Example : Details (Rohit Sharma):
+![rohit sharma](images/rohitSharma.png)
