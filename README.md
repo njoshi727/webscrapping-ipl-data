@@ -12,10 +12,10 @@ Details of an object includes
 
 
 Directory Structure :
-![all Teams](images/team.png)
+![all Teams](./images/team.png)
 
 Example : MI Directory :
-![mumbai indians](images/mi.png)
+![mumbai indians](./images/mi.png)
 
 Example : Details (Rohit Sharma):
-![rohit sharma](images/rohitSharma.png)
+![rohit sharma](./images/rohitSharma.png)
